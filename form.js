@@ -16,3 +16,10 @@ function doublenumber(a){
 }
 
 doublenumber(3)
+
+let password = document.queryselector("");
+console.log (usersage)
+let   =prompt("(Yes or No)");
+console.log (citizen)
+
+
